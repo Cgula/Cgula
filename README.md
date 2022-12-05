@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Carlos Eduardo Gula</h1>
 <h3 align="center">Sou estudante de programação.</h3>
 
-- 🔭 Atualmente não atuo na área de T.I [Super Mercado](https://superalfa.coop.br)
+- 🔭 Atualmente não atuo na área de T.I [Mercado](https://superalfa.coop.br)
 
 - 🌱 Atualmente estou aprendendo **Java Script**
 
-- 👯 compartilho conteúdo no Instagram [Perfil Instagram](https://www.instagram.com/_cgula/)
+- 👯 Compartilho conteúdo no Instagram [@Cgula](https://www.instagram.com/_cgula/)
 
 - 💬 Me pergunte sobre **WEB DEVELOPER, EXCEL**
 
