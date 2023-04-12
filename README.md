@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Carlos Eduardo Gula</h1>
 <h3 align="center">Sou estudante de programação.</h3>
 
-- 🔭 Atualmente não atuo na área de T.I [Mercado](https://superalfa.coop.br)
+- 🔭 Atualmente não atuo na área de T.I 
 
 - 🌱 Atualmente estou aprendendo **Java Script**
 
